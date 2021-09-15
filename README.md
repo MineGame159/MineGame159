@@ -5,6 +5,7 @@
     <li><a href="https://github.com/MeteorDevelopment/meteor-server">Meteor Server</a> | A server for Meteor's Discord bot, website and API.</li>
     <li><a href="https://github.com/MeteorDevelopment/meteor-pvp">Meteor Pvp</a> | A plugin for our pvp server.</li>
     <li><a href="https://github.com/MeteorDevelopment/orbit">Orbit</a> | A java library for fast event system.</li>
+    <li><a href="https://github.com/MeteorDevelopment/starscript">Starscript</a> | Fast text formatting language for Java.</li>
   </ul>
 </p>
 
